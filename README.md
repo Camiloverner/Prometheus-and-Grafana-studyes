@@ -4,7 +4,7 @@ Abaixo esta um exemplo de como funciona sistema do Prometheus. Você poderá enc
 <img src="https://prometheus.io/assets/architecture.png">
 
 ## Montando um ambiente com Docker Compose <h2>
-### Requistos necessários <h3>
+### Requisitos necessários <h3>
 * Ter docker e docker compose instalados na sua máquina;
 * Uma rede estável e com Ip estatico se possivel;
 * Tenha em mãos o Vscode instalado, pois com certeza você vai achar muito chato ficar procurando por um erro de sintaxe em um arquivo Yml.
